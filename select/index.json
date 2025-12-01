@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アナスタシスガール feat. ラプラス・ダークネス / 鷹嶺ルイ(official)",
+  "base_artist": "鷹嶺ルイ",
+  "createdAt": "2025-12-01T09:47:01.239475Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アナスタシスガール feat. ラプラス・ダークネス",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/pl_01_アナスタシスガール_feat._ラプラス・ダークネス_鷹嶺ルイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アナスタシスガール feat. ラプラス・ダークネス",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/pl_02_アナスタシスガール_feat._ラプラス・ダークネス_鷹嶺ルイ.txt"
+    }
+  ]
+}
